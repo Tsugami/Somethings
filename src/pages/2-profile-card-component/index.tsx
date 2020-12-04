@@ -9,7 +9,7 @@ import {
   Title,
   Span,
   SocialCount
-} from './styles'
+} from '../../styles/pages/2-profile-card-component/styles'
 
 import FavIcon from './assets/favicon-32x32.png'
 import ImageVictor from './assets/image-victor.jpg'
