@@ -1,6 +1,10 @@
 import React, { useState } from 'react'
 import Head from 'next/head'
-import { Card, Title, Container } from '../../styles/pages/1-expandings-card/styles'
+import {
+  Card,
+  Title,
+  Container
+} from '../../styles/pages/1-expandings-card/styles'
 
 interface ExpadCardProps {
   imageURL: string
